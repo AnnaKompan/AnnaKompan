@@ -25,34 +25,30 @@
 
 ## 💼 Pinned Projects
 
-### 🗺️ [data_viz_group](https://github.com/AnnaKompan/data_viz_group)
-📊 *Refugees Data Visualization*  
-Sankey diagrams, chloropleth maps, bar charts — created as a group project for meaningful data storytelling.
+### 🗺️ [Refugees Data Visualization](https://github.com/AnnaKompan/data_viz_group)
+Sankey diagrams | Chloropleth Map | Bar Charts
 
-### 📰 [ArtemTerzi/project-15](https://github.com/ArtemTerzi/project-15)
-**News Web App** using NYTimes API  
-JavaScript · REST API · Node.js · Parcel · Axios · Sass (Team project)
+### 📰 [News Web App](https://github.com/ArtemTerzi/project-15)
+Using New York Times API  
+JavaScript | REST API | Node.js | Parcel | Sass
 
 ### 🧠 [NYCU_Visual_Recognition_Using_DL](https://github.com/AnnaKompan/NYCU_Visual_Recognition_Using_DL)
-Computer Vision Projects:
-- 🧩 Instance Segmentation
-- 🖼️ Image Classification
-- 🎯 Object Detection
-- 🛠️ Image Restoration  
-All in Jupyter Notebooks using Python and deep learning frameworks.
+Computer Vision Projects using PyTorch:
+- Instance Segmentation
+- Image Classification
+- Object Detection
+- Image Restoration  
 
-### 🧬 [sartorius_cell_instance_segmentation](https://github.com/AnnaKompan/sartorius_cell_instance_segmentation)
-Final Project for Deep Learning Course  
-🏆 Kaggle Competition on Cell Instance Segmentation  
-Trained with PyTorch and presented as a complete end-to-end pipeline.
+### 🧬 [Sartorius Cell_Instance Segmentation](https://github.com/AnnaKompan/sartorius_cell_instance_segmentation)
+Kaggle Competition on Cell Instance Segmentation using PyTorch
 
-### 🔮 [fortune_teller_grokAPI](https://github.com/AnnaKompan/fortune_teller_grokAPI)
-Web App powered by AI 🔮  
-Built with Vue.js + Bootstrap + Python backend — uses the **Grok AI API** to generate responses.  
+### 🔮 [Fortune Teller](https://github.com/AnnaKompan/fortune_teller_grokAPI)
+Web App powered by GrokAPI  
+Built with Vue.js | FastAPI | Bootstrap | Python backend 
 (Software Development Club group project)
 
-### 📘 [LeetCode_75](https://github.com/AnnaKompan/LeetCode_75)
-🔥 Curated "Must-do" Problem List  
+### 📘 [LeetCode 75+](https://github.com/AnnaKompan/LeetCode_75)
+"Must-do" Problem List from LeetCode
 Solved using Java, JS and Python with focus on algorithms & data structures.
 
 ---
