@@ -1,8 +1,10 @@
 # Hi there 👋，I'm Anna Kompan
+
 🎓 Master's student in Computer Science at **NYCU National Yang Ming Chiao Tung University 國立陽明交通大學**
 📍 EECS Department - Electronic Engineering and Computer Science
 🔭 Research: **Sign Language & Emotion Recognition** using Mediapipe Holistic and Deep Learning
 ✨ Passionate about Web development, Computer Vision, AI integration into apps
+
 ---
 ## 🛠 Languages, Frameworks & Tools
 
