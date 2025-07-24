@@ -9,7 +9,7 @@
 ✨ Passionate about Web development, Computer Vision, AI integration into apps
 
 ---
-## 🛠 Languages, Frameworks & Tools
+## 🔤 Languages, Frameworks & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -25,29 +25,29 @@
 
 ## 💼 Pinned Projects
 
-### 🗺️ [Refugees Data Visualization](https://github.com/AnnaKompan/data_viz_group)
+### [Refugees Data Visualization](https://github.com/AnnaKompan/data_viz_group)
 Sankey diagrams | Chloropleth Map | Bar Charts
 
-### 📰 [News Web App](https://github.com/ArtemTerzi/project-15)
+### [News Web App](https://github.com/ArtemTerzi/project-15)
 Using New York Times API  
 JavaScript | REST API | Node.js | Parcel | Sass
 
-### 🧠 [NYCU_Visual_Recognition_Using_DL](https://github.com/AnnaKompan/NYCU_Visual_Recognition_Using_DL)
+### [NYCU_Visual_Recognition_Using_DL](https://github.com/AnnaKompan/NYCU_Visual_Recognition_Using_DL)
 Computer Vision Projects using PyTorch:
 - Instance Segmentation
 - Image Classification
 - Object Detection
 - Image Restoration  
 
-### 🧬 [Sartorius Cell_Instance Segmentation](https://github.com/AnnaKompan/sartorius_cell_instance_segmentation)
+### [Sartorius Cell_Instance Segmentation](https://github.com/AnnaKompan/sartorius_cell_instance_segmentation)
 Kaggle Competition on Cell Instance Segmentation using PyTorch
 
-### 🔮 [Fortune Teller](https://github.com/AnnaKompan/fortune_teller_grokAPI)
+### [Fortune Teller](https://github.com/AnnaKompan/fortune_teller_grokAPI)
 Web App powered by GrokAPI  
 Built with Vue.js | FastAPI | Bootstrap | Python backend 
 (Software Development Club group project)
 
-### 📘 [LeetCode 75+](https://github.com/AnnaKompan/LeetCode_75)
+### [LeetCode 75+](https://github.com/AnnaKompan/LeetCode_75)
 "Must-do" Problem List from LeetCode
 Solved using Java, JS and Python with focus on algorithms & data structures.
 
