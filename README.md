@@ -58,12 +58,6 @@ Solved using Java, JS and Python with focus on algorithms & data structures.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaKompan&layout=compact&theme=gruvbox)
 
 ---
-
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-kompan/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AnnaKompan)
-
----
-
-> 💬 *I'm always open to collaborations, research opportunities, and cool AI projects
