@@ -28,7 +28,13 @@
 ### [Refugees Data Visualization](https://github.com/AnnaKompan/data_viz_group)
 Sankey diagrams | Chloropleth Map | Bar Charts
 
-### [Pokemon web app](https://github.com/AnnaKompan/pokeApi)
+### [Image Search Web App](https://github.com/AnnaKompan/goit-js-hw-11)
+Browse images by keyword using Pixabay API with real-time likes, views, and download stats.
+Fetch API | HTML | CSS | JavaScript | Axios | Pixabay API | Lightbox | NPM
+
+
+
+### [Pokemon Web App](https://github.com/AnnaKompan/pokeApi)
 Explore and search Pokémon with their basic stats and abilities
 Fetch API| HTML | CSS | JavaScript | Parcel | NPM
 
