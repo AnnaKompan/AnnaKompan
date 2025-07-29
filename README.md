@@ -28,6 +28,10 @@
 ### [Refugees Data Visualization](https://github.com/AnnaKompan/data_viz_group)
 Sankey diagrams | Chloropleth Map | Bar Charts
 
+### [Pokemon web app](https://github.com/AnnaKompan/pokeApi)
+Explore and search Pokémon with their basic stats and abilities
+Fetch API| HTML | CSS | JavaScript | Parcel | NPM
+
 ### [News Web App](https://github.com/ArtemTerzi/project-15)
 Using New York Times API  
 JavaScript | REST API | Node.js | Parcel | Sass
