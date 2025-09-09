@@ -4,7 +4,7 @@
 
 📍 EECS Department - Electronic Engineering and Computer Science
 
-🔭 Research: **Sign Language & Emotion Recognition** using Mediapipe Holistic and Deep Learning
+🔭 Research: **Sign Language & Emotion Recognition** using Mediapipe Holistic (TF)
 
 ✨ Passionate about Web development, Computer Vision, AI integration into apps
 
