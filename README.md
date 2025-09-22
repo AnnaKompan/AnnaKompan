@@ -32,8 +32,6 @@ Sankey diagrams | Chloropleth Map | Bar Charts
 Browse images by keyword using Pixabay API with real-time likes, views, and download stats.
 Fetch API | HTML | CSS | JavaScript | Axios | Pixabay API | Lightbox | NPM
 
-
-
 ### [Pokemon Web App](https://github.com/AnnaKompan/pokeApi)
 Explore and search Pokémon with their basic stats and abilities
 Fetch API| HTML | CSS | JavaScript | Parcel | NPM
@@ -47,7 +45,10 @@ Computer Vision Projects using PyTorch:
 - Instance Segmentation
 - Image Classification
 - Object Detection
-- Image Restoration  
+- Image Restoration
+
+### [Multimodal Real-time Sign and Emotion Recognition using MP Holistic](https://github.com/AnnaKompan/multimodal_action-emotion_detection)
+Python | TensorFlow | scikit-learn | MP Holistic
 
 ### [Sartorius Cell_Instance Segmentation](https://github.com/AnnaKompan/sartorius_cell_instance_segmentation)
 Kaggle Competition on Cell Instance Segmentation using PyTorch
