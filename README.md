@@ -32,9 +32,9 @@ Sankey diagrams | Chloropleth Map | Bar Charts
 Browse images by keyword using Pixabay API with real-time likes, views, and download stats.
 Fetch API | HTML | CSS | JavaScript | Axios | Pixabay API | Lightbox | NPM
 
-### [Pokemon Web App](https://github.com/AnnaKompan/pokeApi)
-Explore and search Pokémon with their basic stats and abilities
-Fetch API| HTML | CSS | JavaScript | Parcel | NPM
+### [Software testing](https://github.com/AnnaKompan/Software_testing/tree/main))
+Exploring test automation techniques
+Unit Testing | Fuzz Testing | TBD | TDD | API testing
 
 ### [News Web App](https://github.com/ArtemTerzi/project-15)
 Using New York Times API  
@@ -57,6 +57,10 @@ Kaggle Competition on Cell Instance Segmentation using PyTorch
 Web App powered by GrokAPI  
 Built with Vue.js | FastAPI | Bootstrap | Python backend 
 (Software Development Club group project)
+
+### [Pokemon Web App](https://github.com/AnnaKompan/pokeApi)
+Explore and search Pokémon with their basic stats and abilities
+Fetch API| HTML | CSS | JavaScript | Parcel | NPM
 
 ### [LeetCode 75+](https://github.com/AnnaKompan/LeetCode_75)
 "Must-do" Problem List from LeetCode
