@@ -33,7 +33,7 @@ Browse images by keyword using Pixabay API with real-time likes, views, and down
 Fetch API | HTML | CSS | JavaScript | Axios | Pixabay API | Lightbox | NPM
 
 ### [Software testing](https://github.com/AnnaKompan/Software_testing/tree/main)
-Exploring test automation techniques
+Exploring test automation techniques.
 Unit Testing | Fuzz Testing | TBD | TDD | API testing
 
 ### [News Web App](https://github.com/ArtemTerzi/project-15)
