@@ -32,7 +32,7 @@ Sankey diagrams | Chloropleth Map | Bar Charts
 Browse images by keyword using Pixabay API with real-time likes, views, and download stats.
 Fetch API | HTML | CSS | JavaScript | Axios | Pixabay API | Lightbox | NPM
 
-### [Software testing](https://github.com/AnnaKompan/Software_testing/tree/main))
+### [Software testing](https://github.com/AnnaKompan/Software_testing/tree/main)
 Exploring test automation techniques
 Unit Testing | Fuzz Testing | TBD | TDD | API testing
 
