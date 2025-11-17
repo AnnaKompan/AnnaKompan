@@ -26,6 +26,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=flat&logo=github&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-FF6C37?style=flat&logo=valgrind&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-CC0000?style=flat&logo=puppeteer&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 
 ---
 
