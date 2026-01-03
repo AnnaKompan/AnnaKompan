@@ -68,7 +68,7 @@ Built with Vue.js | FastAPI | Bootstrap | Python backend
 Explore and search Pokémon with their basic stats and abilities
 Fetch API| HTML | CSS | JavaScript | Parcel | NPM
 
-### [LeetCode 75+](https://github.com/AnnaKompan/LeetCode_75)
+### [NeetCode 150](https://github.com/AnnaKompan/neetcode150_leetcode)
 "Must-do" Problem List from LeetCode
 Solved using Java, JS and Python with focus on algorithms & data structures.
 
