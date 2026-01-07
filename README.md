@@ -70,7 +70,7 @@ Fetch API| HTML | CSS | JavaScript | Parcel | NPM
 
 ### [NeetCode 150](https://github.com/AnnaKompan/neetcode150_leetcode)
 "Must-do" Problem List from LeetCode
-Solved using Java, JS and Python with focus on algorithms & data structures.
+Solved using Python with focus on algorithms & data structures.
 
 ---
 ## 📊 GitHub Stats
