@@ -73,12 +73,6 @@ Fetch API| HTML | CSS | JavaScript | Parcel | NPM
 Solved using Python with focus on algorithms & data structures.
 
 ---
-## 📊 GitHub Stats
-
-![Anna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnnaKompan&show_icons=true&theme=gruvbox&hide_rank=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaKompan&layout=compact&theme=gruvbox)
-
----
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-kompan/)
