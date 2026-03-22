@@ -33,7 +33,7 @@
 ## 💼 Pinned Projects
 
 ### [Refugees Data Visualization](https://github.com/AnnaKompan/data_viz_group)
-Sankey diagrams | Chloropleth Map | Bar Charts
+Sankey diagrams | Chloropleth Map | Bar Charts using D3.js
 
 ### [Image Search Web App](https://github.com/AnnaKompan/goit-js-hw-11)
 Browse images by keyword using Pixabay API with real-time likes, views, and download stats.
@@ -53,8 +53,8 @@ Computer Vision Projects using PyTorch:
 - Object Detection
 - Image Restoration
 
-### [Multimodal Real-time Sign and Emotion Recognition using MP Holistic](https://github.com/AnnaKompan/multimodal_action-emotion_detection)
-Python | TensorFlow | scikit-learn | MP Holistic
+### [Frugal Learning for Emotion Recognition](https://github.com/AnnaKompan/frugal-emotion-recognition)
+Python | TensorFlow | scikit-learn | MP Holistic | Matplotlib | NumPy
 
 ### [Sartorius Cell_Instance Segmentation](https://github.com/AnnaKompan/sartorius_cell_instance_segmentation)
 Kaggle Competition on Cell Instance Segmentation using PyTorch
