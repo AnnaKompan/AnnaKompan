@@ -28,20 +28,25 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=flat&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ---
 
 ## 💼 Pinned Projects
 
-### [Refugees Data Visualization](https://github.com/AnnaKompan/data_viz_group)
-Sankey diagrams | Chloropleth Map | Bar Charts using D3.js
+### [Pokemon Web App](https://github.com/AnnaKompan/pokeApi)
+Explore and search Pokémon with their basic stats and abilities
+Fetch API| HTML | CSS | JavaScript | Parcel
 
 ### [Image Search Web App](https://github.com/AnnaKompan/goit-js-hw-11)
 Browse images by keyword using Pixabay API with real-time likes, views, and download stats.
-Fetch API | HTML | CSS | JavaScript | Axios | Pixabay API | Lightbox | NPM
+REST API | HTML | CSS | JavaScript | Axios | Pixabay API | Lightbox
 
-### [Software testing](https://github.com/AnnaKompan/Software_testing/tree/main)
-Unit Testing | Fuzz Testing | TBD | TDD | API testing
+### [Weather APP](https://github.com/AnnaKompan/weather_app_react)
+Get weather forecast for any city 
+REST API | React | Vite | TypeScript | Tailwind
 
 ### [News Web App](https://github.com/ArtemTerzi/project-15)
 Using New York Times API  
@@ -54,8 +59,14 @@ Computer Vision Projects using PyTorch:
 - Object Detection
 - Image Restoration
 
+### [Refugees Data Visualization](https://github.com/AnnaKompan/data_viz_group)
+Sankey diagrams | Chloropleth Map | Bar Charts using D3.js
+
+### [Software testing](https://github.com/AnnaKompan/Software_testing/tree/main)
+Unit Testing | Fuzz Testing | TBD | TDD | API testing
+
 ### [Frugal Learning for Emotion Recognition](https://github.com/AnnaKompan/frugal-emotion-recognition)
-Python | TensorFlow | scikit-learn | MP Holistic | Matplotlib | NumPy
+Python | TensorFlow | scikit-learn | MP Holistic | Matplotlib | NumPy | OpenCV
 
 ### [Sartorius Cell_Instance Segmentation](https://github.com/AnnaKompan/sartorius_cell_instance_segmentation)
 Kaggle Competition on Cell Instance Segmentation using PyTorch
@@ -64,10 +75,6 @@ Kaggle Competition on Cell Instance Segmentation using PyTorch
 Web App powered by GrokAPI  
 Built with Vue.js | FastAPI | Bootstrap | Python backend 
 (Software Development Club group project)
-
-### [Pokemon Web App](https://github.com/AnnaKompan/pokeApi)
-Explore and search Pokémon with their basic stats and abilities
-Fetch API| HTML | CSS | JavaScript | Parcel | NPM
 
 ### [NeetCode 150](https://github.com/AnnaKompan/neetcode150_leetcode)
 "Must-do" Problem List from LeetCode
