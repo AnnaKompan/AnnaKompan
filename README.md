@@ -36,6 +36,15 @@
 
 ## 💼 Pinned Projects
 
+### [Frugal Learning for Emotion Recognition](https://github.com/AnnaKompan/frugal-emotion-recognition)
+Python | TensorFlow | scikit-learn | MP Holistic | Matplotlib | NumPy | OpenCV
+
+### [Software testing](https://github.com/AnnaKompan/Software_testing/tree/main)
+Unit Testing | Fuzz Testing | TBD | TDD | API testing
+
+### [Sartorius Cell_Instance Segmentation](https://github.com/AnnaKompan/sartorius_cell_instance_segmentation)
+Kaggle Competition on Cell Instance Segmentation using PyTorch
+
 ### [Pokemon Web App](https://github.com/AnnaKompan/pokeApi)
 Explore and search Pokémon with their basic stats and abilities
 Fetch API| HTML | CSS | JavaScript | Parcel
@@ -62,23 +71,10 @@ Computer Vision Projects using PyTorch:
 ### [Refugees Data Visualization](https://github.com/AnnaKompan/data_viz_group)
 Sankey diagrams | Chloropleth Map | Bar Charts using D3.js
 
-### [Software testing](https://github.com/AnnaKompan/Software_testing/tree/main)
-Unit Testing | Fuzz Testing | TBD | TDD | API testing
-
-### [Frugal Learning for Emotion Recognition](https://github.com/AnnaKompan/frugal-emotion-recognition)
-Python | TensorFlow | scikit-learn | MP Holistic | Matplotlib | NumPy | OpenCV
-
-### [Sartorius Cell_Instance Segmentation](https://github.com/AnnaKompan/sartorius_cell_instance_segmentation)
-Kaggle Competition on Cell Instance Segmentation using PyTorch
-
 ### [Fortune Teller](https://github.com/AnnaKompan/fortune_teller_grokAPI)
 Web App powered by GrokAPI  
 Built with Vue.js | FastAPI | Bootstrap | Python backend 
 (Software Development Club group project)
-
-### [NeetCode 150](https://github.com/AnnaKompan/neetcode150_leetcode)
-"Must-do" Problem List from LeetCode
-Solved using Python with focus on algorithms & data structures.
 
 ---
 ## 📫 How to reach me
